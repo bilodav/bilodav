@@ -45,15 +45,16 @@ My personal developer profile page showcasing my skills, selected projects, cert
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilodav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raphael's GitHub Stats" />
-</p>
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilodav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
- 
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=bilodav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+ 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilodav&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+ 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilodav&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bilodav&theme=tokyonight" alt="Stats" />
 </p>
  
 ---
