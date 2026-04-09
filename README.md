@@ -41,22 +41,38 @@ My Umuzi internship capstone project — a full portfolio website built from scr
 My personal developer profile page showcasing my skills, selected projects, certifications, and contact info. A living snapshot of who I am and what I can build.
 
 ---
- 
+
 ## 📊 GitHub Stats
- 
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bilodav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
- 
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilodav&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
- 
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilodav&theme=tokyonight" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bilodav&theme=tokyonight" alt="Stats" />
 </p>
- 
+
+---
+
+## 🌱 Currently
+
+- 🎓 Completing my web development internship at **Umuzi**
+- 📚 Deepening my skills in **React** and **Python**
+- 🎨 Practising UI/UX design with **Figma**
+- 🏗️ Building real-world client projects through **SylphCode**
+
+---
+
+## 🏅 Certifications
+
+- ✅ Responsive Web Design — freeCodeCamp
+- ✅ JavaScript Algorithms and Data Structures — freeCodeCamp
+
 ---
 
 ## 📫 Get In Touch
