@@ -41,12 +41,21 @@ My Umuzi internship capstone project — a full portfolio website built from scr
 My personal developer profile page showcasing my skills, selected projects, certifications, and contact info. A living snapshot of who I am and what I can build.
 
 ---
-
+ 
 ## 📊 GitHub Stats
-
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilodav&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilodav&layout=compact&hide_border=true)
-
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilodav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raphael's GitHub Stats" />
+</p>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilodav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+ 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bilodav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+ 
 ---
 
 ## 📫 Get In Touch
