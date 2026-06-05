@@ -27,6 +27,11 @@ A professional web development agency site built to showcase services and attrac
 
 ---
 
+### ⛪ [CatholicFide](https://catholicfide.sylphcode.co.za)
+A fullstack Catholic web application featuring daily Scripture readings, an interactive Rosary, a Saint of the Day section, a prayer repository and more. Built with React.
+
+---
+
 ### 🎮 [Pokémon Search App](https://bilodav.github.io/pokemon-search-app/)
 An interactive web app that lets users search for any Pokémon by name or ID using the PokéAPI. Features real-time data fetching, error handling with try-catch, and a clean responsive UI. Built with HTML, CSS, and JavaScript.
 
