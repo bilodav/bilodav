@@ -1,11 +1,9 @@
 # Hey, I'm Raphael (Bilo) 👋
-
 I'm a passionate web developer currently doing my internship at **[Umuzi](https://www.umuzi.org/)**, where I build modern, accessible websites from the ground up. I have a keen eye for design, usability, and detail — I believe great websites aren't just functional, they're experiences worth remembering.
 
 ---
 
 ## 🛠️ Tech Stack
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,16 +46,18 @@ My personal developer profile page showcasing my skills, selected projects, cert
 
 ---
 
-## 📊 GitHub Stats
+### 📋 [Umuzi Task Manager](https://bilodav.github.io/umuzi-task-manager/)
+A clean, functional task management system built during my Umuzi internship. Allows users to add, track, and manage tasks with a straightforward, user-friendly interface. Built with HTML, CSS, and JavaScript.
 
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bilodav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilodav&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilodav&theme=tokyonight" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bilodav&theme=tokyonight" alt="Stats" />
@@ -66,7 +66,6 @@ My personal developer profile page showcasing my skills, selected projects, cert
 ---
 
 ## 🌱 Currently
-
 - 🎓 Completing my web development internship at **Umuzi**
 - 📚 Deepening my skills in **React** and **Python**
 - 🎨 Practising UI/UX design with **Figma**
@@ -75,14 +74,13 @@ My personal developer profile page showcasing my skills, selected projects, cert
 ---
 
 ## 🏅 Certifications
-
 - ✅ Responsive Web Design — freeCodeCamp
 - ✅ JavaScript Algorithms and Data Structures — freeCodeCamp
+- ✅ Meta Front-End Developer — Meta
 
 ---
 
 ## 📫 Get In Touch
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/bilo-raphael-davids-608995187/)
 - 🌐 [Portfolio](https://bilodav.github.io/profile-page/)
 - 📧 bilodavids@gmail.com
