@@ -77,6 +77,8 @@ A clean, functional task management system built during my Umuzi internship. All
 - ✅ Responsive Web Design — freeCodeCamp
 - ✅ JavaScript Algorithms and Data Structures — freeCodeCamp
 - ✅ Meta Front-End Developer — Meta
+- ✅ IBM UI/UX Designer — IBM
+- ✅ Accessibility and Inclusive Design — Illinois
 
 ---
 
