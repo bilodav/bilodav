@@ -47,7 +47,7 @@ My personal developer profile page showcasing my skills, selected projects, cert
 ---
 
 ### 📋 [Umuzi Task Manager](https://bilodav.github.io/umuzi-task-manager/)
-A clean, functional task management system built during my Umuzi internship. Allows users to add, track, and manage tasks with a straightforward, user-friendly interface. Built with HTML, CSS, and JavaScript.
+A clean, functional task management system built during my Umuzi internship. Allows users to add, track, and manage tasks that persist with a straightforward, user-friendly interface. Built with HTML, CSS, and JavaScript.
 
 ---
 
