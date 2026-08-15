@@ -67,7 +67,7 @@ A clean, functional task management system built during my Umuzi internship. All
 
 ## 🌱 Currently
 - 🎓 Completing my web development internship at **Umuzi**
-- 📚 Deepening my skills in **React** and **Python**
+- 📚 Deepening my skills in **React** **C#** and **Python**
 - 🎨 Practising UI/UX design with **Figma**
 - 🏗️ Building real-world client projects through **SylphCode**
 
