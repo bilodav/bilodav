@@ -1,5 +1,5 @@
 # Hey, I'm Raphael (Bilo) 👋
-I'm a passionate web developer currently doing my internship at **[Umuzi](https://www.umuzi.org/)**, where I build modern, accessible websites from the ground up. I have a keen eye for design, usability, and detail — I believe great websites aren't just functional, they're experiences worth remembering.
+I'm a passionate web developer currently doing my internship at **[Umuzi](https://www.umuzi.org/)**, where I build modern, accessible websites from the ground up. I have a keen eye for design, usability, and detail. I believe great websites aren't just functional, they are experiences worth remembering.
 
 ---
 
