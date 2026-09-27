@@ -14,7 +14,7 @@ I'm a passionate web developer currently doing my internship at **[Umuzi](https:
 
 ---
 
-## 🚀 Projects...
+## 🚀 Projects
 
 ### 🏗️ [Oakbeam Construction](https://bilodav.github.io/Oakbeam)
 A full business website for a civil engineering and construction company. Features services, past projects, a news section, and a project tracking tool. Built with HTML & CSS with a strong focus on visual hierarchy and professional presentation.
