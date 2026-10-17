@@ -62,6 +62,11 @@ A clean, functional task management system built during my Umuzi internship. All
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilodav&theme=tokyonight" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bilodav&theme=tokyonight" alt="Stats" />
 </p>
+<p align="center">
+  <a href="https://www.codewars.com/users/bilodav">
+    <img src="https://www.codewars.com/users/bilodav/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
 
 ---
 
