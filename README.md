@@ -36,8 +36,8 @@ An interactive web app that lets users search for any Pokémon by name or ID usi
 
 ---
 
-### 🧑‍💻 [Umuzi Capstone Portfolio](https://bilodav.github.io/umuzi-capstone-project/)
-My Umuzi internship capstone project — a full portfolio website built from scratch to showcase my journey as a developer. Clean layout, accessible design, and a personal touch throughout.
+### 🍽️ [Palateer](https://bilodav.github.io/Palateer/)
+A meal planner web app that helps users organise what they'll eat and plan their meals with ease. Designed with a clean, user-friendly interface that makes everyday meal planning simple.
 
 ---
 
