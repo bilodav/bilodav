@@ -16,8 +16,8 @@ I'm a passionate web developer currently doing my internship at **[Umuzi](https:
 
 ## 🚀 Projects
 
-### 🏗️ [Oakbeam Construction](https://bilodav.github.io/Oakbeam)
-A full business website for a civil engineering and construction company. Features services, past projects, a news section, and a project tracking tool. Built with HTML & CSS with a strong focus on visual hierarchy and professional presentation.
+### 👤 [Personal Profile Page](https://bilodav.github.io/profile-page/)
+My personal developer profile page showcasing my skills, selected projects, certifications, and contact info. A living snapshot of who I am and what I can build.
 
 ---
 
@@ -41,8 +41,8 @@ A meal planner web app that helps users organise what they'll eat and plan their
 
 ---
 
-### 👤 [Personal Profile Page](https://bilodav.github.io/profile-page/)
-My personal developer profile page showcasing my skills, selected projects, certifications, and contact info. A living snapshot of who I am and what I can build.
+### 🏗️ [Oakbeam Construction](https://bilodav.github.io/Oakbeam)
+A full business website for a civil engineering and construction company. Features services, past projects, a news section, and a project tracking tool. Built with HTML & CSS with a strong focus on visual hierarchy and professional presentation.
 
 ---
 
