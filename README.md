@@ -88,7 +88,7 @@ A clean, functional task management system built during my Umuzi internship. All
 ---
 
 ## 📫 Get In Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/bilo-raphael-davids-608995187/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/raphael-davids)
 - 🌐 [Portfolio](https://bilodav.github.io/profile-page/)
 - 📧 bilodavids@gmail.com
 
